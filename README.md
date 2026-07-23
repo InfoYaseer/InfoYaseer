@@ -1,171 +1,136 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mohamed Yaseer</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yaseer&fontSize=60&fontColor=C9A9FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+💡 Passionate about building creative digital experiences.  
+<br>
+✨ I turn ideas into clean, modern, and functional designs — from code to graphics.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);Founder+%40+PixelProud;Building%2C+Learning%2C+Shipping" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yaseerm.me-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white)](https://www.yaseerm.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yaseer--bt-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseer-bt)
-[![GitHub](https://img.shields.io/badge/GitHub-InfoYaseer-7B2FF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/InfoYaseer)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=InfoYaseer&color=7B2FF7&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/InfoYaseer?style=flat-square&color=6A5ACD&label=Followers)
-![Stars](https://img.shields.io/github/stars/InfoYaseer?style=flat-square&color=A78BFA&label=Stars)
-
-</div>
-
----
-
-### 👋 About Me
-
-- 💻 Full-Stack Developer, currently building with the **MERN Stack**
-- 🎨 Founder & freelance graphic designer at **[PixelProud](https://pixelproud.lk)** — vector-based brand identity, social media, and print design
-- 🌱 Currently strengthening my foundations in **React, Node.js, Express, and MongoDB**
-- 🎯 Open To: freelance web development work, MERN stack collaborations, and junior/entry-level developer roles
+<p align="center">
+  <a href="https://yaseerm.me" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/yaseer-bt" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://wa.me/94767656647" target="_blank">
+  <img src="https://img.shields.io/badge/CONTACT%20ME-FFD700?style=for-the-badge" alt="Contact me on WhatsApp">
+</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🖥️ **Tech Stack**
 
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
-
-**Frontend**
-
-![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-**Backend & Databases**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PHP](https://skillicons.dev/icons?i=php)
-
-**Tools & Design**
-
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Illustrator](https://skillicons.dev/icons?i=ai) ![Figma](https://skillicons.dev/icons?i=figma)
-
-</div>
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=oracle)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
 ---
 
-### 🚀 Featured Projects
-
-<details>
-<summary><b>💱 Currency Converter</b></summary>
-<br/>
-
-A client-side currency conversion web app built with vanilla JavaScript.
-
-| | |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Live Demo** | [infoyaseer.github.io/Currency-Converter](https://infoyaseer.github.io/Currency-Converter/) |
-| **Repository** | [InfoYaseer/Currency-Converter](https://github.com/InfoYaseer/Currency-Converter) |
-
-</details>
-
-<details>
-<summary><b>🔐 Auto-Focus OTP App</b></summary>
-<br/>
-
-A UI component that auto-advances focus between OTP input fields for a smoother verification flow.
-
-| | |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript |
-| **Live Demo** | [infoyaseer.github.io/Auto-Focus-OTP-App](https://infoyaseer.github.io/Auto-Focus-OTP-App/) |
-| **Repository** | [InfoYaseer/Auto-Focus-OTP-App](https://github.com/InfoYaseer/Auto-Focus-OTP-App) |
-
-</details>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/FLUTTER-000?style=for-the-badge&logo=flutter)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+![MaterialUI](https://img.shields.io/badge/Material_UI-000?style=for-the-badge&logo=mui)
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=InfoYaseer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7B2FF7&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=InfoYaseer&theme=tokyonight&hide_border=true&background=0d1117&ring=7B2FF7&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfoYaseer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="48%"/>
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=InfoYaseer&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7B2FF7&point=c9d1d9)
-
-</div>
-
-<div align="center">
-
-<picture>
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-</picture>
-
-</div>
-
-> **Note:** the snake animation needs a small GitHub Actions workflow in this repo to generate — see [Platane/snk](https://github.com/Platane/snk) if you'd like it running.
+### 🛠 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=dotnet)
 
 ---
 
-### 🎯 Current Focus
-
-```yaml
-Learning:   MERN Stack (MongoDB, Express, React, Node.js)
-Building:   Small full-stack projects to apply what I'm learning
-Exploring:  DSA & clean project architecture
-Open To:    Freelance web dev work, MERN collaborations, junior dev roles
-```
+### 🎨 CSS Frameworks
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 ---
 
-### 📫 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yaseerm.me-8A2BE2?style=flat-square&logo=firefox&logoColor=white)](https://www.yaseerm.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yaseer--bt-6A5ACD?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaseer-bt)
-[![GitHub](https://img.shields.io/badge/GitHub-InfoYaseer-7B2FF7?style=flat-square&logo=github&logoColor=white)](https://github.com/InfoYaseer)
-
-</div>
+### 🗄️ Databases
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle_DB-000?style=for-the-badge&logo=oracle)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=mariadb)
 
 ---
 
-<div align="center">
+### 🖌️ Design Tools
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-000?style=for-the-badge&logo=adobexd)
+![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-000?style=for-the-badge&logo=adobeillustrator)
+![After Effects](https://img.shields.io/badge/After_Effects-000?style=for-the-badge&logo=adobeaftereffects)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-000?style=for-the-badge&logo=adobepremierepro)
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva)
+![Blender](https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender)
 
-*"Design with purpose, code with patience."*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+### 🎯 Design Expertise
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-000?style=for-the-badge&logo=figma)
+![Graphic Design](https://img.shields.io/badge/Graphic_Design-000?style=for-the-badge&logo=adobe)
+![Web Design](https://img.shields.io/badge/Web_Design-000?style=for-the-badge&logo=css3)
+![Motion Graphics](https://img.shields.io/badge/Motion_Graphics-000?style=for-the-badge&logo=adobeaftereffects)
+![Video Editing](https://img.shields.io/badge/Video_Editing-000?style=for-the-badge&logo=adobepremierepro)
+![3D Design](https://img.shields.io/badge/3D_Design-000?style=for-the-badge&logo=blender)
+![Brand Identity](https://img.shields.io/badge/Brand_Identity-000?style=for-the-badge&logo=adobeillustrator)
+![Prototyping](https://img.shields.io/badge/Prototyping-000?style=for-the-badge&logo=invision)
 
-</div>
+---
+
+## 📊 **GitHub Stats**
+<p>
+  <img height="180" src="https://stats.hyo.dev/api/github-stats-advanced?login=InfoYaseer"/>
+</p>
+
+---
+
+## 📈 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoYaseer&theme=react-dark"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://yaseerm.me" target="_blank"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/yaseer-bt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://wa.me/94767656647" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.instagram.com/yaseer.thahir__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=infoyaseer&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my GitHub profile!  
+  <br>
+  Your support means a lot 🤍
+</p>
